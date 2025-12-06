@@ -13,12 +13,7 @@
   │    │     ├── Login.jsx
   │    │     ├── Signup.jsx
   │    │     └── Dashboard.jsx
-  │    └── ... 
+  │    └── ...  
 
-##Frontend
-npm install
-npm start
 
-##backend
-npm install
-npm run dev
+
